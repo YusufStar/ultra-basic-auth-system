@@ -1,7 +1,8 @@
 # ultra-basic-auth-system
 [Go Website](https://my-sc.vercel.app/)
 
-test data in app.js = {
+```javascript Test Data In App.js
+data = {
   users: [
     {
       name: "TestUser",
