@@ -1,6 +1,10 @@
 # ultra-basic-auth-system
 [Go Website](https://my-sc.vercel.app/)
 
+Login User 1: user name = yusufstar, password: 1234
+<br/>
+Login User 2: user name = test, password: 0000
+
 ## Test Data In App.js
 ```javascript
 data = {
